@@ -1,4 +1,5 @@
 # CreditCard Customer Segmentation
+## [Jupyter Notebook](https://github.com/matthew8541/CreditCard-Customer-Segmentation/blob/master/CreditCard-Customer-Segmentation.ipynb)
 ## Goal
 This project is to develop a customer segamentation for marketing strategies-Customer-Segmentation
 ## Data Information
