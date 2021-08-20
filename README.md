@@ -1,4 +1,4 @@
-# CreditCard
+# CreditCard Customer Segmentation
 ## Goal
 This project is to develop a customer segamentation for marketing strategies-Customer-Segmentation
 ## Data Information
